@@ -40,12 +40,76 @@ Email Me 👉 ✉️ **maulana294d@gmail.com** For Collaboration/Project or Anyt
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danishkhairanm) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@danishkhairanm) 
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alamimran613&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<h2>Proof at a glance</h2>
 
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>5</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=maulana294d-byte&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F282611000%3Fu%3D7d97385347f8448b6bdc5361303af34c69398819%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=maulana294d-byte&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F282611000%3Fu%3D7d97385347f8448b6bdc5361303af34c69398819%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Danish Khairan Maulana GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=maulana294d-byte&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F282611000%3Fu%3D7d97385347f8448b6bdc5361303af34c69398819%26v%3D4&repos=maulana294d-byte%2Fmaulana294d-byte&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=maulana294d-byte&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F282611000%3Fu%3D7d97385347f8448b6bdc5361303af34c69398819%26v%3D4&repos=maulana294d-byte%2Fmaulana294d-byte&v=recruiter-projects-1&mode=dark" width="100%" alt="Danish Khairan Maulana selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/maulana294d-byte/maulana294d-byte">maulana294d-byte</a></h3>
+<p>A selected public project.</p>
+<p><sub>⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/maulana294d-byte/maulana294d-byte">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=maulana294d-byte&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F282611000%3Fu%3D7d97385347f8448b6bdc5361303af34c69398819%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=maulana294d-byte&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F282611000%3Fu%3D7d97385347f8448b6bdc5361303af34c69398819%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Danish Khairan Maulana technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=maulana294d-byte&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F282611000%3Fu%3D7d97385347f8448b6bdc5361303af34c69398819%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=maulana294d-byte&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F282611000%3Fu%3D7d97385347f8448b6bdc5361303af34c69398819%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Danish Khairan Maulana contribution activity" />
+</picture>
+</p>
+
+<hr />
